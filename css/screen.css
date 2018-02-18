@@ -21,6 +21,7 @@ header {
     margin-right: auto;
     margin-left: auto;
     padding: 1.5rem 0 0 0;
+    text-align: center;
 }
 
 main {
@@ -31,11 +32,6 @@ main {
     margin-bottom: 3rem;
     padding-left: .5rem;
     padding-right: .5rem;
-}
-
-main header {
-    width: auto;
-    max-width: none;
 }
 
 h1 {
