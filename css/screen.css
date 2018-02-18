@@ -70,3 +70,9 @@ img {
     width: 100%;
     height: auto;
 }
+
+// Anthology
+
+body.anthology main {
+    text-align: left;
+}
