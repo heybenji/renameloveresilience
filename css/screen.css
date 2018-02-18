@@ -74,5 +74,6 @@ img {
 /* Anthology */
 
 body.anthology main {
-    text-align: left;
+    text-align: left !important;
+    max-width: 29rem;
 }
